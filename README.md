@@ -10,4 +10,4 @@
   ```
   npm run dev
   ```
-This will launch the application, and it should be accessible in your browser at http://localhost:3000
+This will launch the application, and it should be accessible in your browser at http://localhost:5173
